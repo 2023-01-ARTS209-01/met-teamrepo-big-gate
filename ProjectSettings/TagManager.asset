@@ -50,6 +50,9 @@ TagManager:
   - name: player
     uniqueID: 554469213
     locked: 0
+  - name: props2
+    uniqueID: 3792930021
+    locked: 0
   - name: props
     uniqueID: 468091625
     locked: 0
