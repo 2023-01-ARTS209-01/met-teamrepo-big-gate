@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Statue of Medevil Priest
+  m_Name: Statue of Mother & her child_2
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 5c46d3a78bab5d846bdf6b5a2fcec080, type: 3}
+  m_Sprite: {fileID: 903474984, guid: a15ca2c3c6600ed40a4ef8fd52521de5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
