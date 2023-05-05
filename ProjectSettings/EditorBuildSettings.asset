@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sodano_GateScene.unity
     guid: c86397c1a35895d4da09c10e1301557b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Met Base - Ryan Connell.unity
     guid: 26ba0a065687c824ab635ab9e8bb6531
   m_configObjects: {}
